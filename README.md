@@ -1,7 +1,7 @@
 ![](20250119_143915.jpg)
 
 Description:
-<br/> I collected this job from a client who consulted me to help out give some data driven insight on the levels of CO2 emission and deforestation in Nigeria. No data was given, I had to source for data myself so I downloaded needed data from faostat (global forest resource assessment) and github.com/owid/co2 (the world in data CO2 emission).
+<br/> I collected this job from a client who consulted me to help out give some data driven insight on the levels of CO2 emission and deforestation in Nigeria. No data was given, I had to source for data myself so I downloaded needed data from faostat(global forest resource assessment) and [github](github.com/owid/co2 (the world in data CO2 emission)).
 
 Statement of Problem:
 1. What is the amount of CO2 emitted compared to its consumption?
